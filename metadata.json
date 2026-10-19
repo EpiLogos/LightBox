@@ -1,0 +1,6 @@
+{
+  "name": "LuxOptics - Geometric Optics & Ray Tracing Sandbox",
+  "description": "Interactive 2D physics sandbox for geometric optics and laser geometries with real-time ray tracing, lenses, prisms, mirrors, chromatic dispersion, and high-resolution vector (SVG) export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
